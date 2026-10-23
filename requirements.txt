@@ -1,0 +1,4 @@
+pyzk
+requests>=2.31
+pystray>=0.19.5
+Pillow>=10.0
